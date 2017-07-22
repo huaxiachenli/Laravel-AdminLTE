@@ -1,12 +1,12 @@
 {
-  "name": "jeroennoten/laravel-adminlte",
-  "description": "Easy AdminLTE integration with Laravel",
+  "name": "huaxiachenli/Laravel-AdminLTE",
+  "description": "Easy AdminLTE integration with Laravel,fork from jeroennoten/Laravel-AdminLTE",
   "keywords": ["laravel", "adminlte", "admin", "administrator"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeroen Noten",
-      "email": "jeroennoten@me.com"
+      "name": "huaxiachenli",
+      "email": "huaxiachenli@hotmail.com"
     }
   ],
   "autoload": {
